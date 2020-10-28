@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-family-sans-serif;
+  background-image: url('/img/sfondo-blog.png');
+}
+
+a {
+  color: $primary_color !important;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+header,footer {
+  height: $header_footer_height;
+  text-align: center;
+  color: $primary_color;
+}

@@ -13,6 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Route::get('/home', 'HomeController@index')->name('home');
+
 Route::get('/', function () {
-    return view('welcome');
-});
+  return view('home.index');
+})->name('home');
+
+Route::get('/chi-sono', function () {
+  return view('chisono.index');
+})->name('chi-sono');
+
+Route::get('/hobby', function () {
+  return view('hobby.index');
+})->name('hobby');
+
+Route::resource('projects', 'ProjectController');
+
+Auth::routes();

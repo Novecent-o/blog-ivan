@@ -1,0 +1,22 @@
+footer {
+  // background-color: $footer_bg_color;
+  .social {
+    padding: 0 16px;
+    height: 100px;
+    a {
+      padding: 0 16px;
+      .button_icon {
+        width: 50px;
+        height: 50px;
+        border-radius: 25px;
+        background-color: $primary_color;
+        color: #d62828;
+        &:hover {
+          background-color: #d62828;
+          color: $primary_color;
+        }
+      }
+    }
+
+  }
+}
