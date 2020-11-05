@@ -11012,30 +11012,30 @@ footer .social a .button_icon:hover {
 .card {
   border: 4px solid #FCBF49;
   border-radius: 15px;
-  height: 400px;
-<<<<<<< Updated upstream
 }
 
 .card:hover {
   border: 4px solid #D62828;
-=======
->>>>>>> Stashed changes
 }
 
-.card .card-img-top {
-  height: 50%;
+.card a {
+  min-height: 40%;
+  max-height: 50%;
+}
+
+.card a .pappo {
+  height: 100%;
+}
+
+.card a .pappo .card-img-top {
+  max-height: 100%;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   border-radius: 25px;
-  max-height: 70%;
 }
 
 .card .card-body {
   overflow-y: scroll;
   font-family: "Trispace", sans-serif;
-}
-
-.card .card-body {
-  overflow-y: scroll;
 }
 

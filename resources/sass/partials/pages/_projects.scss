@@ -3,25 +3,25 @@
 .card {
   border: 4px solid #FCBF49;
   border-radius: 15px;
-  height: 400px;
-<<<<<<< Updated upstream
+  // height: 400px;
   &:hover {
     border: 4px solid #D62828;
   }
-=======
->>>>>>> Stashed changes
-  .card-img-top {
-    height: 50%;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-radius: 25px;
-    max-height: 70%;
+  a {
+    min-height: 40%;
+    max-height: 50%;
+    .pappo {
+      height: 100%;
+      .card-img-top {
+        max-height: 100%;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-radius: 25px;
+      }
+    }
   }
   .card-body {
     overflow-y: scroll;
     font-family: 'Trispace', sans-serif;
-  }
-  .card-body {
-    overflow-y: scroll;
   }
 }
