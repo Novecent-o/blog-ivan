@@ -7,9 +7,9 @@
 @section('content')
   <div class="container-lg">
     <div class="row">
-      <div class="card-deck">
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="card mb-4">
+      <div class="card-deck justify-content-center">
+        <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
+          <div class="card mx-3 mb-4">
             <a href="#">
               <div class="pappo">
                 <img src="/img/boolflix.png" class="card-img-top p-3" alt="Boolflix">
@@ -22,8 +22,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="card mb-4">
+        <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
+          <div class="card mx-3 mb-4">
             <a href="">
               <div class="pappo">
                 <img src="/img/boolBNB.png" class="card-img-top p-3" alt="AirBnb">
@@ -36,8 +36,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="card mb-4">
+        <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
+          <div class="card mx-3 mb-4">
             <a href="https://novecent-o.github.io/html-css-digitalocean/">
               <div class="pappo">
                 <img src="/img/digitalOcean.png" class="card-img-top p-3" alt="Digital Ocean">
@@ -50,8 +50,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="card mb-4">
+        <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
+          <div class="card mx-3 mb-4">
             <a href="#">
               <div class="pappo">
                 <img src="/img/spotifyWeb.png" class="card-img-top p-3" alt="Spotify Web">
@@ -64,8 +64,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="card mb-4">
+        <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
+          <div class="card mx-3 mb-4">
             <a href="#">
               <div class="pappo">
                 <img src="/img/whatsapp.png" class="card-img-top p-3" alt="Whatsapp Web">
@@ -78,8 +78,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-12 col-md-6 col-lg-4">
-          <div class="card mb-4">
+        <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
+          <div class="card mx-3 mb-4">
             <a href="#">
               <div class="pappo">
                 <img src="/img/spotifyWeb.png" class="card-img-top p-3" alt="...">
