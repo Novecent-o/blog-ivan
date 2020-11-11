@@ -11009,9 +11009,24 @@ footer .social a .button_icon:hover {
   color: #FCBF49;
 }
 
+.home_page {
+  margin: 0 auto;
+  height: 100%;
+  width: 70%;
+}
+
+.home_page h4 {
+  color: white;
+}
+
+.home_page p {
+  color: #F77F00;
+}
+
 .card {
   border: 4px solid #FCBF49;
   border-radius: 15px;
+  height: 500px;
 }
 
 .card:hover {
