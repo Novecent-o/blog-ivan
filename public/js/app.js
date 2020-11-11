@@ -37276,14 +37276,7 @@ __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 var $ = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js");
 
-$(document).ready(function () {
-  $('.button_icon').mouseenter(function () {
-    $(this).toggle();
-  });
-  $('.button_icon').mouseleave(function () {
-    $(this).toggle();
-  }); // $('.fa-user-ninja').fadeOut(2000);
-});
+$(document).ready(function () {});
 
 /***/ }),
 

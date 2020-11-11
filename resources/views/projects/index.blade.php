@@ -10,7 +10,7 @@
       <div class="card-deck justify-content-center">
         <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
           <div class="card mx-3 mb-4">
-            <a href="#">
+            <a href="https://novecent-o.github.io/ajax-ex-boolflix/">
               <div class="pappo">
                 <img src="/img/boolflix.png" class="card-img-top p-3" alt="Boolflix">
               </div>
@@ -24,14 +24,14 @@
         </div>
         <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
           <div class="card mx-3 mb-4">
-            <a href="">
+            <a href="https://novecent-o.github.io/boolbnb_goodluck/">
               <div class="pappo">
                 <img src="/img/boolBNB.png" class="card-img-top p-3" alt="AirBnb">
               </div>
             </a>
             <div class="card-body">
               <h5 class="card-title">AirBnb</h5>
-              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              <p class="card-text">Sviluppo di un’applicazione ispirata ad AirBnb. L'utente si può loggare, inserire un suo appartamento, modificarlo, sponsorizzarlo, visualizzare le statistiche. Il sito permette di effettuare dei pagamenti per prenotare gli appartamenti.</p>
               <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
             </div>
           </div>
@@ -52,7 +52,7 @@
         </div>
         <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
           <div class="card mx-3 mb-4">
-            <a href="#">
+            <a href="https://novecent-o.github.io/html-css-spotifyweb/">
               <div class="pappo">
                 <img src="/img/spotifyWeb.png" class="card-img-top p-3" alt="Spotify Web">
               </div>
@@ -66,7 +66,7 @@
         </div>
         <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
           <div class="card mx-3 mb-4">
-            <a href="#">
+            <a href="https://novecent-o.github.io/js-html-css-boolzap/">
               <div class="pappo">
                 <img src="/img/whatsapp.png" class="card-img-top p-3" alt="Whatsapp Web">
               </div>
@@ -74,21 +74,7 @@
             <div class="card-body">
               <h5 class="card-title">Whatsapp</h5>
               <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-8 col-sm-10 col-md-6 col-lg-4">
-          <div class="card mx-3 mb-4">
-            <a href="#">
-              <div class="pappo">
-                <img src="/img/spotifyWeb.png" class="card-img-top p-3" alt="...">
-              </div>
-            </a>
-            <div class="card-body">
-              <h5 class="card-title">BoolFlix</h5>
-              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              <p class="card-text"><small class="text-muted"> HTML5 - JavaScript - CSS3</small></p>
             </div>
           </div>
         </div>
